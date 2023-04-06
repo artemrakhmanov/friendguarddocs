@@ -1,5 +1,5 @@
 [build]
-publish = "ProjectName.doccarchive/"
+publish = "FirstDocIteration.doccarchive/"
 ###### Change it to your doccarchive file's name
 
 [[redirects]]
